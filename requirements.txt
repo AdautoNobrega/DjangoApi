@@ -9,6 +9,7 @@ django-rest-swagger==2.2.0
 djangorestframework==3.10.3
 entrypoints==0.3
 flake8==3.7.9
+gunicorn==19.9.0
 idna==2.8
 itypes==1.1.0
 Jinja2==2.10.3
